@@ -131,7 +131,7 @@ export default function Page() {
           </h2>
         </div>
  
-        {/* ส่วนของการแสดง Sau Footer */}
+        {/* ส่วนของการแสดง Sau Footer  */}
         <SauFooter />
       </div>
     </>
